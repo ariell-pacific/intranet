@@ -42,6 +42,8 @@
     "build-staging": "./node_modules/.bin/env-cmd -f .env.staging react-scripts build",
     "build-production": "./node_modules/.bin/env-cmd -f .env.production react-scripts build",
     "start": "./node_modules/.bin/env-cmd -f ./.env react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start-development": "./node_modules/.bin/env-cmd -f ./.env.development react-scripts start",
     "start-staging": "./node_modules/.bin/env-cmd -f ./.env.staging react-scripts start",
     "start-uat": "./node_modules/.bin/env-cmd -f ./.env.uat react-scripts start",
