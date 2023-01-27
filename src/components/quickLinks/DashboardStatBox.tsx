@@ -1,7 +1,6 @@
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 import React from 'react';
-import { Link, Route } from 'react-router-dom';
 import { appColors } from '../../theme';
 
 type StatType = 'registered' | 'contacted';

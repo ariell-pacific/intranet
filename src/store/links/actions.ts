@@ -43,7 +43,7 @@ export const fetchLink = (): AppThunk => async (dispatch) => {
   dispatch(setLoadStatus());
   try {
       const feedback = await apiClient.request({
-      url: 'PCSystemsAPI/Api/Maintenance/Helpdesk/Links/Get'
+      url: 'TravelLinkAPIDev/Api/Website/Helpdesk/Links/Get'
     });
     dispatch(loadLinkData(feedback.data[`hdLinks`]));
     dispatch(setLinkStatus());
