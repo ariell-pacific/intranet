@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/intranet/static/js/main.ab4d3e77.js",
+    "main.js": "/intranet/static/js/main.6c39d8c9.js",
     "static/js/787.80f4239b.chunk.js": "/intranet/static/js/787.80f4239b.chunk.js",
     "static/media/logo.png": "/intranet/static/media/logo.244468f2ff564cb15b2c.png",
     "static/media/Metropolis-ExtraBold.otf": "/intranet/static/media/Metropolis-ExtraBold.f179dd5fc7c0864a964b.otf",
@@ -11,10 +11,10 @@
     "static/media/Metropolis-Regular.otf": "/intranet/static/media/Metropolis-Regular.67a1988d7b65b0aaa16d.otf",
     "static/media/Metropolis-Thin.otf": "/intranet/static/media/Metropolis-Thin.90c6171184f230bfa07a.otf",
     "index.html": "/intranet/index.html",
-    "main.ab4d3e77.js.map": "/intranet/static/js/main.ab4d3e77.js.map",
+    "main.6c39d8c9.js.map": "/intranet/static/js/main.6c39d8c9.js.map",
     "787.80f4239b.chunk.js.map": "/intranet/static/js/787.80f4239b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ab4d3e77.js"
+    "static/js/main.6c39d8c9.js"
   ]
 }
